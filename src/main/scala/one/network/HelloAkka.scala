@@ -1,3 +1,5 @@
+package one.network
+
 import akka.actor.{Actor, ActorSystem, Props}
 
 
